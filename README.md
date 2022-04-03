@@ -1,2 +1,2 @@
-# patika.dev-devlerim
+# patika.dev-odevlerim
 Ödev 1
